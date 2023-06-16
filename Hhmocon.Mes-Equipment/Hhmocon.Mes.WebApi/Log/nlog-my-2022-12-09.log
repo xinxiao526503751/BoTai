@@ -1,0 +1,96 @@
+2022-12-09 08:46:40.7819|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-12-09 08:46:41.2196|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-12-09 08:46:41.2659|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-12-09 08:46:41.2755|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-12-09 08:46:41.2755|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-12-09 08:46:41.2755|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-12-09 08:46:41.2755|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2022-12-09 08:46:41.2755|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-12-09 08:46:41.2870|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-12-09 08:46:41.2870|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-12-09 08:46:41.3683|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-12-09 08:46:41.3683|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:46:45.0565|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:46:45.6924|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:47:42.3728|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:47:42.4172|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  用户 'sa' 登录失败。
+2022-12-09 08:47:42.4281|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-12-09 08:47:42.4281|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:55:51.4804|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-12-09 08:55:51.8105|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-12-09 08:55:51.8465|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-12-09 08:55:51.8465|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-12-09 08:55:51.8496|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-12-09 08:55:51.8496|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-12-09 08:55:51.8496|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2022-12-09 08:55:51.8496|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-12-09 08:55:51.8496|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-12-09 08:55:51.8496|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-12-09 08:55:51.9391|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-12-09 08:55:51.9535|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:55:55.0172|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:55:55.0972|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:55:57.7139|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:55:57.7139|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:00.0036|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:00.0036|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:01.1698|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:01.1698|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:05.0047|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:05.0076|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:06.6277|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:06.6277|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:10.0047|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:10.0047|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:11.5381|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:11.5381|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:15.0104|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:15.0104|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:16.1694|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:16.1780|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:20.0053|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:20.0053|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:21.1088|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:21.1088|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:25.0083|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:25.0083|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:26.6426|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:26.6426|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:30.0129|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:30.0129|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:30.8272|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:30.8272|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:35.0080|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:35.0080|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:35.6904|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:35.6904|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:40.0058|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:40.0058|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:41.1058|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:41.1058|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:45.0122|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:45.0122|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:46.8078|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:46.8078|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:50.0144|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:50.0144|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:51.0319|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:51.0319|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-12-09 08:56:55.0054|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-12-09 08:56:55.0054|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-12-09 08:56:56.9007|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-12-09 08:56:56.9007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 

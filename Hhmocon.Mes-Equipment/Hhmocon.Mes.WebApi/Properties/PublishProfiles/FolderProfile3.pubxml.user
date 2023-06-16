@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2022-03-30T01:58:46.2382201Z;True|2022-03-30T09:52:56.9800619+08:00;False|2022-03-30T09:52:42.2364580+08:00;</History>
+    <_PublishTargetUrl>D:\MES</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

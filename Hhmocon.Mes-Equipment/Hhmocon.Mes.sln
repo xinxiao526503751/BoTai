@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Core", "Hhmocon.Mes.Core\Hhmocon.Mes.Core.csproj", "{2EA3291A-5376-49BD-A33B-06E4DB1DB095}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Database.SqlServer", "Hhmocon.Mes.Database.SqlServer\Hhmocon.Mes.Database.SqlServer.csproj", "{38F0B4FF-123D-4300-A7CA-FE7963992740}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Database", "Hhmocon.Mes.Database\Hhmocon.Mes.Database.csproj", "{1EFDE5EB-C7FA-4A67-8D27-D52B2AFE95B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Util", "Hhmocon.Mes.Util\Hhmocon.Mes.Util.csproj", "{1644C2D4-9D49-45F8-8FDA-462029DDEF74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Application", "Hhmocon.Mes.Application\Hhmocon.Mes.Application.csproj", "{9718FDE6-0C90-4365-BD91-0AFD6ADA0A92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.Repository", "Hhmocon.Mes.Repository\Hhmocon.Mes.Repository.csproj", "{C9AE47F9-DDF3-4E46-858F-AC2D41378366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hhmocon.Mes.WebApi", "Hhmocon.Mes.WebApi\Hhmocon.Mes.WebApi.csproj", "{F09F8635-4958-472B-B301-1B3F7C282745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA3291A-5376-49BD-A33B-06E4DB1DB095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA3291A-5376-49BD-A33B-06E4DB1DB095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA3291A-5376-49BD-A33B-06E4DB1DB095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA3291A-5376-49BD-A33B-06E4DB1DB095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F0B4FF-123D-4300-A7CA-FE7963992740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F0B4FF-123D-4300-A7CA-FE7963992740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F0B4FF-123D-4300-A7CA-FE7963992740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F0B4FF-123D-4300-A7CA-FE7963992740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFDE5EB-C7FA-4A67-8D27-D52B2AFE95B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFDE5EB-C7FA-4A67-8D27-D52B2AFE95B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFDE5EB-C7FA-4A67-8D27-D52B2AFE95B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFDE5EB-C7FA-4A67-8D27-D52B2AFE95B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1644C2D4-9D49-45F8-8FDA-462029DDEF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1644C2D4-9D49-45F8-8FDA-462029DDEF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1644C2D4-9D49-45F8-8FDA-462029DDEF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1644C2D4-9D49-45F8-8FDA-462029DDEF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9718FDE6-0C90-4365-BD91-0AFD6ADA0A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9718FDE6-0C90-4365-BD91-0AFD6ADA0A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9718FDE6-0C90-4365-BD91-0AFD6ADA0A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9718FDE6-0C90-4365-BD91-0AFD6ADA0A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AE47F9-DDF3-4E46-858F-AC2D41378366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AE47F9-DDF3-4E46-858F-AC2D41378366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AE47F9-DDF3-4E46-858F-AC2D41378366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AE47F9-DDF3-4E46-858F-AC2D41378366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09F8635-4958-472B-B301-1B3F7C282745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09F8635-4958-472B-B301-1B3F7C282745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09F8635-4958-472B-B301-1B3F7C282745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09F8635-4958-472B-B301-1B3F7C282745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C911579-4305-4D39-AB96-942C6DD0257C}
+	EndGlobalSection
+EndGlobal

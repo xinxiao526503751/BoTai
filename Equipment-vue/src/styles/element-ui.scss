@@ -1,0 +1,190 @@
+//覆盖一些element-ui样式
+
+.el-breadcrumb__inner,
+.el-breadcrumb__inner a {
+  font-weight: 400 !important;
+}
+
+.el-upload {
+  input[type='file'] {
+    display: none !important;
+  }
+}
+
+.el-upload__input {
+  display: none;
+}
+
+.cell {
+  .el-tag {
+    margin-right: 0px;
+  }
+}
+
+// 按钮增删查
+// .flex-column {
+//   .filter-container {
+.el-button--primary {
+  height: 28px !important;
+  text-align: center;
+  border-radius: 4px;
+  margin-left: 10px !important;
+  background-color: #2db7f5;
+  color: #fff;
+}
+// .el-button--primary {
+//   height: 28px !important;
+//   text-align: center;
+//   border-radius: 4px;
+//   margin-left: 10px !important;
+//   background-color: #ecf5ff;
+//   color: #2db7f5;
+//   border-color: #2db7f5;
+// }
+// .el-button--primary:hover {
+//   height: 28px !important;
+//   text-align: center;
+//   border-radius: 4px;
+//   margin-left: 10px !important;
+//   background-color: #2db7f5;
+//   color: #fff;
+// }
+.el-button--success {
+  height: 28px !important;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #19be6b;
+  color: #fff;
+}
+.el-button--danger {
+  height: 28px !important;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #e65643;
+  color: #fff;
+}
+//   }
+// }
+
+// 设置table斑马纹stripe样式
+// .flex-item {
+//   .bg-white {
+//     .el-table--striped
+//       .el-table__body
+//       tr.el-table__row--striped.el-table__row--striped.el-table__row--striped
+//       td {
+//       background-color: #e7eaee; /*替换为你需要的颜色，觉得优先级不够就加!important*/
+//     }
+//   }
+// }
+
+// table标题行样式
+.flex-item {
+  .el-table th {
+    height: 30px !important;
+    background-color: #e0e0e0; /*替换为你需要的颜色，觉得优先级不够就加!important*/
+  }
+}
+
+// dialog里的vuetreeselect样式
+.dialog-mini {
+  .treeselect-main {
+    width: 250px !important;
+    height: 32px !important;
+    // padding: 0px 15px !important;
+  }
+}
+
+// 操作栏table单元格style
+.small-padding {
+  .cell {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+// 操作栏里的button的style
+.fixed-width {
+  .el-button--mini {
+    padding: 0px 0px;
+    width: 12px;
+    border: none;
+  }
+}
+
+.status-col {
+  .cell {
+    padding: 0 10px;
+    text-align: center;
+    .el-tag {
+      margin-right: 0px;
+    }
+  }
+}
+
+//暂时性解决dialog 问题 https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+// .el-dialog {
+//   display: flex;
+//   flex-direction: column;
+//   margin: 0 !important;
+//   position: absolute;
+//   top: 50% !important;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   /*height:600px;*/
+//   max-height: calc(100% - 30px);
+//   max-width: calc(100% - 30px);
+// }
+// .el-dialog .el-dialog__body {
+//   flex: 1;
+//   overflow: auto;
+// }
+//文章页textarea修改样式
+.article-textarea {
+  textarea {
+    padding-right: 40px;
+    resize: none;
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #bfcbd9;
+  }
+}
+
+//element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+
+//dropdown
+.el-dropdown-menu {
+  a {
+    display: block;
+  }
+}
+
+// fix date-picker ui bug in filter-item
+.el-range-editor.el-input__inner {
+  display: inline-flex !important;
+}
+
+// to fix el-date-picker css style
+.el-range-separator {
+  box-sizing: content-box;
+}
+
+// el-tree字体
+.el-tree-node__label {
+  font-size: 12px !important;
+}

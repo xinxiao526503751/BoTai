@@ -1,0 +1,52 @@
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\NOTICE.TXT
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.deps.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfoInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfo.cs
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.CoreCompileInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.AssemblyReference.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\NOTICE.TXT
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.deps.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.AssemblyReference.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfoInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfo.cs
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.CoreCompileInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.deps.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.deps.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\bin\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\ref\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Util\obj\Debug\net5.0\Hhmocon.Mes.Util.pdb

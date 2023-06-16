@@ -1,0 +1,655 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.WebApi\\Hhmocon.Mes.WebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\Hhmocon.Mes.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\Hhmocon.Mes.Application.csproj",
+        "projectName": "Hhmocon.Mes.Application",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\Hhmocon.Mes.Application.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AutoMapperBuilder": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.Quartz": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IO.FileSystem": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj",
+        "projectName": "Hhmocon.Mes.Core",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj",
+        "projectName": "Hhmocon.Mes.Database.SqlServer",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\Hhmocon.Mes.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\Hhmocon.Mes.Database.csproj",
+        "projectName": "Hhmocon.Mes.Database",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\Hhmocon.Mes.Database.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj",
+        "projectName": "Hhmocon.Mes.Repository",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database.SqlServer\\Hhmocon.Mes.Database.SqlServer.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\Hhmocon.Mes.Database.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Database\\Hhmocon.Mes.Database.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj",
+        "projectName": "Hhmocon.Mes.Util",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "DotNetCore.NPOI": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.WebApi\\Hhmocon.Mes.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.WebApi\\Hhmocon.Mes.WebApi.csproj",
+        "projectName": "Hhmocon.Mes.WebApi",
+        "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.WebApi\\Hhmocon.Mes.WebApi.csproj",
+        "packagesPath": "C:\\Users\\XIAOXIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files(×86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XIAOXIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\Hhmocon.Mes.Application.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Application\\Hhmocon.Mes.Application.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Repository\\Hhmocon.Mes.Repository.csproj"
+              },
+              "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj": {
+                "projectPath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Util\\Hhmocon.Mes.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "DotNetCore.NPOI": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.11, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[5.13.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "TimedJob": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

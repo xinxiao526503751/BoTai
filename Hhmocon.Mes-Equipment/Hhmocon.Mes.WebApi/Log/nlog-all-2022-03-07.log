@@ -1,0 +1,26 @@
+2022-03-07 13:18:33.9083|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-07 13:18:33.9501|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-07 13:18:33.9510|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-07 13:18:33.9510|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-07 13:18:33.9510|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-07 13:18:33.9510|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-07 13:18:33.9510|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-07 13:18:34.0446|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-07 13:18:34.0774|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-07 13:18:34.0774|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-07 13:18:34.0774|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-07 13:18:34.0774|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-07 13:18:35.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-07 13:18:35.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-07 13:18:35.1045|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-07 13:18:35.1404|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-07 13:18:35.1404|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-07 13:18:35.1404|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-07 13:18:35.1404|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-07 13:18:40.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-07 13:18:40.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-07 13:18:40.1065|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-07 13:18:40.1481|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-07 13:18:40.1481|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-07 13:18:40.1481|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-07 13:18:40.1481|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 

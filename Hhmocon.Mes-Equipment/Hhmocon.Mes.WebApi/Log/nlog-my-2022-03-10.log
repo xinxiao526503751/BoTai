@@ -1,0 +1,691 @@
+<<<<<<< HEAD
+2022-03-10 10:36:42.4887|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-03-10 10:36:42.9511|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-03-10 10:36:43.1447|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-03-10 10:36:43.1447|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-03-10 10:36:43.1447|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:36:43.1447|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-03-10 10:36:43.1522|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+=======
+2022-03-10 10:39:26.9569|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-03-10 10:39:27.1712|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-03-10 10:39:27.1938|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-03-10 10:39:27.1938|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-03-10 10:39:27.1938|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:39:27.1938|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-03-10 10:39:27.1938|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+>>>>>>> 571b59bfb28fd3ea6c2121aecd6749dec93b5901
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+<<<<<<< HEAD
+2022-03-10 10:36:43.1522|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-03-10 10:36:43.1522|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-03-10 10:36:43.1522|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:36:43.2408|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-03-10 10:36:43.2462|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:36:45.0464|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:36:45.0809|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:36:56.5731|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:36:56.5966|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:36:56.5966|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:36:56.5966|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:36:56.6037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:36:56.6037|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:36:56.6881|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:36:56.6881|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:36:56.6881|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:36:56.6881|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:36:56.6881|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:36:56.6881|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:36:56.7559|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:36:56.7559|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:36:56.7559|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:36:56.7559|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:00.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:00.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:00.1454|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:00.1624|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:00.1624|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:00.1624|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:05.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:05.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:15.3438|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:15.3438|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:15.3438|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:15.3438|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:15.3438|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:15.3540|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:15.4165|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:15.4165|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:15.4165|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:15.4165|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:15.4165|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:15.4165|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:15.4937|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:15.4937|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:15.4937|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:15.4937|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:20.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:20.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:20.0918|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:20.1103|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:20.1293|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:20.1363|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:25.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:25.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:25.1258|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:25.1427|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:25.1427|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:25.1427|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:30.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:30.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:40.3191|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:40.3191|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:40.3191|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:40.3191|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:40.3222|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:40.3222|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:40.3924|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:40.3924|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:40.3924|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:40.3924|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:40.3924|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:40.3924|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:40.4665|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:40.4665|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:40.4665|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:40.4665|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:45.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:45.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:45.0985|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:45.1086|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:45.1266|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:45.1431|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:50.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:50.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:50.1050|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:50.1289|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:50.1289|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:50.1289|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:37:55.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:37:55.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:37:55.1228|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:37:55.1387|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:37:55.1387|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:37:55.1387|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:00.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:00.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:00.1236|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:00.1236|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:00.1396|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:00.1396|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:05.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:05.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:15.4383|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:15.4655|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:15.4655|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:15.4655|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:15.4655|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:15.4655|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:15.5502|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:15.5502|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:15.5502|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:15.5502|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:15.5502|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:15.5502|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:15.6218|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:15.6218|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:15.6218|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:15.6218|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:20.0015|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:20.0015|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:20.1044|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:20.1405|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:20.1405|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:20.1405|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:25.0016|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:25.0016|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:25.0999|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:25.1179|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:25.1348|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:25.1348|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:30.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:30.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:30.0968|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:30.1078|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:30.1186|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:30.1404|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:35.0008|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:35.0008|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:35.1333|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:35.1486|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:35.1486|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:35.1501|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:40.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:40.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:40.0865|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:40.1047|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:40.1047|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:40.1342|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:45.0008|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:45.0008|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:45.0938|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:45.1110|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:45.1303|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:45.1373|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:50.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:50.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:50.1164|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:50.1273|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:50.1414|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:50.1414|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:38:55.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:38:55.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:38:55.1077|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:38:55.1249|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:38:55.1423|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:38:55.1423|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:00.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:00.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:10.3637|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:10.3809|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:10.3809|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:10.3809|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:10.3809|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:10.3809|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:10.4517|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:10.4517|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:10.4517|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:10.4517|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:10.4517|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:10.4517|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:10.5358|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:10.5416|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:10.5416|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:10.5416|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:15.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:15.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:15.0805|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:15.0995|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:15.1177|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:15.1291|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:20.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:20.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:20.1111|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:20.1302|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:20.1442|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:20.1442|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:25.0018|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:25.0018|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:25.1082|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:25.1082|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:25.1279|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:25.1435|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:30.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:30.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:30.1295|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:30.1480|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:30.1480|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:30.1480|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:35.0008|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:35.0008|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:35.1046|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:35.1219|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:35.1219|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:35.1219|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:40.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:40.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:40.0940|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:40.1117|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:40.1290|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:40.1365|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:45.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:45.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:45.1149|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:45.1309|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:45.1309|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:45.1309|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:50.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:50.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:50.0902|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:50.1104|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:50.1281|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:50.1346|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:55.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:55.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:39:55.1134|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:39:55.1425|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:39:55.1425|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:39:55.1500|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:00.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:00.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:00.1081|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:00.1320|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:00.1320|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:00.1320|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:05.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:05.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:05.1761|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:05.1885|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:05.1885|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:05.1885|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:10.0013|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:10.0013|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:10.1039|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:10.1039|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:10.1236|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:10.1381|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:15.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:15.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:25.3202|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:25.3281|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:25.3281|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:25.3281|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:25.3281|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:25.3281|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:25.4002|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:25.4002|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:25.4002|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:25.4002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:25.4002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:25.4002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:25.4716|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:25.4716|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:25.4716|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:25.4716|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:30.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:30.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:30.1077|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:30.1077|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:30.1239|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:30.1239|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:35.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:35.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:35.1205|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:35.1372|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:35.1372|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:35.1372|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:40.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:40.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:40.1144|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:40.1304|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:40.1304|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:40.1304|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:45.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:45.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:45.1100|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:45.1285|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:45.1349|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:45.1349|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:50.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:50.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:50.1055|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:50.1229|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:50.1229|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:50.1229|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:40:55.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:40:55.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:40:55.1053|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:40:55.1254|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:40:55.1378|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:40:55.1519|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:00.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:00.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:00.1039|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:00.1215|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:00.1215|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:00.1375|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:05.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:05.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:05.0904|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:05.1084|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:05.1189|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:05.1189|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:10.0011|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:10.0011|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:10.1008|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:10.1183|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:10.1361|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:10.1361|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:15.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:15.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:15.1202|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:15.1396|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:15.1540|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:15.1540|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:20.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:20.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:20.1057|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:20.1242|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:20.1380|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:20.1380|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:25.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:25.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:25.1216|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  无法打开登录所请求的数据库 "HhmoconMes"。登录失败。
+用户 'sa' 登录失败。
+2022-03-10 10:41:25.1216|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 10:41:25.1496|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:25.1496|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:30.0011|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:30.0011|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:44.0584|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-03-10 10:41:44.3671|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-03-10 10:41:44.3989|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-03-10 10:41:44.4006|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-03-10 10:41:44.4006|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:41:44.4006|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-03-10 10:41:44.4006|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+=======
+2022-03-10 10:39:27.1938|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-03-10 10:39:27.1938|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-03-10 10:39:27.1938|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:39:27.2465|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-03-10 10:39:27.2551|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:39:30.0196|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:39:30.0708|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:08.1330|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-03-10 10:43:08.3760|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-03-10 10:43:08.4011|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-03-10 10:43:08.4011|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-03-10 10:43:08.4011|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:43:08.4011|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-03-10 10:43:08.4011|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+>>>>>>> 571b59bfb28fd3ea6c2121aecd6749dec93b5901
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+<<<<<<< HEAD
+2022-03-10 10:41:44.4006|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-03-10 10:41:44.4006|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-03-10 10:41:44.4006|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:41:44.4670|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-03-10 10:41:44.4796|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:45.0108|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:45.0668|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:46.9737|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:46.9737|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:50.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:50.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:50.6491|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:50.6502|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:41:55.0009|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:41:55.0009|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:41:55.6037|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:41:55.6037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:00.0010|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:00.0010|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:00.6246|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:00.6246|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:05.0023|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:05.0023|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:05.6331|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:05.6343|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:10.0014|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:10.0014|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:10.6600|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:10.6600|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:15.0011|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:15.0011|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:15.7449|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:15.7449|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:20.0013|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:20.0013|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:20.6525|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:20.6525|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:25.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:25.0034|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:25.8794|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:25.8794|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:30.0003|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:30.0003|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:30.6036|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:30.6036|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:35.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:35.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:35.6453|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:35.6453|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:40.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:40.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:40.6203|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:40.6203|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:45.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:45.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:45.5574|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:45.5574|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:50.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:50.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:50.7573|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:50.7573|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:42:55.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:42:55.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:42:55.6879|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:42:55.6879|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:00.0008|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:00.0008|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:00.6147|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:00.6147|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:05.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:05.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:05.6105|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:05.6105|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:10.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:10.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:10.5356|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:10.5356|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:15.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:15.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:15.6692|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:15.6692|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:25.7796|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2022-03-10 15:55:26.3992|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2022-03-10 15:55:26.4246|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-03-10 15:55:26.4550|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2022-03-10 15:55:26.4550|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 15:55:26.4550|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2022-03-10 15:55:26.4550|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2022-03-10 15:55:26.4550|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-03-10 15:55:26.4626|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-03-10 15:55:26.4626|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 15:55:26.5347|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-03-10 15:55:26.5402|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:30.0144|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:30.1102|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:31.7066|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:31.7066|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:35.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:35.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:35.8735|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:35.8735|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:40.0011|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:40.0011|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:40.9017|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:40.9017|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:45.0006|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:45.0006|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:45.8139|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:45.8139|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:50.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:50.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:50.8318|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:50.8318|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:55:55.0006|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:55:55.0006|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:55:55.8635|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:55:55.8635|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:56:00.0007|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:56:00.0007|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:56:00.9783|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:56:00.9783|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:56:05.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:56:05.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:56:05.8780|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:56:05.8780|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:56:10.0001|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:56:10.0001|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:56:10.8027|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:56:10.8027|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:56:15.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:56:15.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:56:15.8262|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:56:15.8262|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 15:56:20.0005|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 15:56:20.0005|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 15:56:20.7246|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 15:56:20.7246|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+=======
+2022-03-10 10:43:08.4011|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2022-03-10 10:43:08.4011|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2022-03-10 10:43:08.4011|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2022-03-10 10:43:08.4564|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2022-03-10 10:43:08.4686|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:10.0066|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:10.0601|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:11.0901|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:11.0901|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:15.0146|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:15.0146|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:15.4437|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:15.4437|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:20.0019|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:20.0019|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:20.4466|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:20.4466|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:25.0012|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:25.0012|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:25.5219|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:25.5219|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:34.7688|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:34.7688|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:34.8242|Hhmocon.Mes.Repository.DemoJob|INFO|通知操作完成! 
+2022-03-10 10:43:35.7631|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:35.7631|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:35.7738|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:35.7738|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:36.3224|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:36.3224|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:40.6862|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:40.6862|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:41.1416|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:41.1482|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:45.6452|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:45.6452|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:46.1088|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:46.1130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:49.4589|Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController|INFO|Login enter 
+2022-03-10 10:43:50.0042|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:50.0042|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:50.4299|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:50.4299|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:43:55.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:43:55.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:43:55.4568|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:43:55.4568|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:44:00.0093|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:44:00.0093|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:44:00.4252|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:44:00.4258|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 10:44:05.0054|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 10:44:05.0054|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 10:44:05.4666|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 10:44:05.4666|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+>>>>>>> 571b59bfb28fd3ea6c2121aecd6749dec93b5901
+2022-03-10 13:18:49.8452|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 13:18:49.8452|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 13:18:50.0445|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-10 13:18:50.0810|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-10 13:18:50.0810|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 13:18:50.0825|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 13:18:50.0825|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 13:18:50.0825|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 13:18:50.0825|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 13:18:50.2003|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-10 13:18:50.2344|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-10 13:18:50.2344|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 13:18:50.2344|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 13:18:50.2344|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 13:18:55.0002|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 13:18:55.0002|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 13:18:55.1062|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-10 13:18:55.1400|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-10 13:18:55.1400|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 13:18:55.1400|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 13:18:55.1400|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2022-03-10 13:19:00.0004|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2022-03-10 13:19:00.0004|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2022-03-10 13:19:00.1079|Hhmocon.Mes.Repository.DemoJob|ERROR|列名 'notice_flag' 无效。 
+2022-03-10 13:19:00.1454|Quartz.Core.JobRunShell|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an unhandled Exception:  列名 'notice_flag' 无效。
+2022-03-10 13:19:00.1454|Quartz.Core.ErrorLogger|ERROR|Job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner threw an exception. Job threw an unhandled exception.
+2022-03-10 13:19:00.1454|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2022-03-10 13:19:00.1454|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 

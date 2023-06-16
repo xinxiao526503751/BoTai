@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hhmocon.Mes.Repository</name>
+    </assembly>
+    <members>
+        <member name="T:Hhmocon.Mes.Repository.Domain.base_customer">
+            <summary>
+            </summary>
+            <summary>
+            客户表
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_id">
+            <summary>
+            客户ID
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_code">
+            <summary>
+            客户编码
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_name">
+            <summary>
+            客户名称
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_simple_name">
+            <summary>
+            客户简称
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_tel">
+            <summary>
+            客户电话
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_fax">
+            <summary>
+            客户传真
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_post">
+            <summary>
+            客户邮编
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_email">
+            <summary>
+            客户邮件
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_address">
+            <summary>
+            客户地址
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_web">
+            <summary>
+            客户网站
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_bank">
+            <summary>
+            客户银行
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_account">
+            <summary>
+            银行帐号
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.customer_remark">
+            <summary>
+            客户备注
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_name">
+            <summary>
+            联系人
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_tel">
+            <summary>
+            联系人电话
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_mobile">
+            <summary>
+            联系人手机
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_qq">
+            <summary>
+            联系人QQ
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_email">
+            <summary>
+            联系人邮件
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_weixin">
+            <summary>
+            联系人微信
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.contact_birthday">
+            <summary>
+            联系人生日
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.delete_mark">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.create_by">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.create_by_name">
+            <summary>
+            创建人姓名
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.modified_time">
+            <summary>
+            修改人时间
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.modified_by">
+            <summary>
+            修改人ID
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_customer.modified_by_name">
+            <summary>
+            修改人姓名
+            </summary>
+        </member>
+        <member name="T:Hhmocon.Mes.Repository.Domain.base_location_type">
+            <summary>
+            </summary>
+            <summary>
+            地点类型表
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.location_type_id">
+            <summary>
+            地点类型ID
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.location_type_code">
+            <summary>
+            地点类型编码
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.location_type_name">
+            <summary>
+            地点类型名称
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.delete_mark">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.create_by">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.create_by_name">
+            <summary>
+            创建人姓名
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.modified_time">
+            <summary>
+            修改人时间
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.modified_by">
+            <summary>
+            修改人ID
+            </summary>
+        </member>
+        <member name="P:Hhmocon.Mes.Repository.Domain.base_location_type.modified_by_name">
+            <summary>
+            修改人姓名
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.Repository.BaseLocationTypeRepository.Delete(System.String[])">
+            <summary>
+            删除 
+            </summary>
+            <param name="userid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.Repository.BaseLocationTypeRepository.GetCount(System.String)">
+            <summary>
+            获取当前条件下的数据记录数
+            </summary>
+            <param name="wherestr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.Repository.BaseLocationTypeRepository.GetAll(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="wherestr"></param>
+            <param name="sortstr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.Repository.BaseLocationTypeRepository.GetList(System.Int32,System.Int32,System.String,System.String)">
+             <summary>
+            获取分页数据
+             </summary>
+             <param name="page"></param>
+             <param name="rows"></param>
+             <param name="wherestr"></param>
+             <param name="sortstr"></param>
+             <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.Repository.BaseLocationTypeRepository.Insert(Hhmocon.Mes.Repository.Domain.base_location_type)">
+            <summary>
+            插入表
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

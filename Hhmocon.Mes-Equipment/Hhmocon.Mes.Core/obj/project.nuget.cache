@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUSe0nKuow+SVtitJvrpJWiG4L1r1G+e8sSVZMIvvBxTTb8OI4hF2EHLEIFGyw9iZ5cezdZt6T8z47n1iiJxQw==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\Hhmocon.Mes - 副本\\Hhmocon.Mes.Core\\Hhmocon.Mes.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\XIAOXIN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

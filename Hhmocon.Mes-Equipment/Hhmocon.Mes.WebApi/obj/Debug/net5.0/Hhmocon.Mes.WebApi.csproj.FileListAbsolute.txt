@@ -1,0 +1,452 @@
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NOTICE.TXT
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Production.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.exe
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\XmlConfig\nlog.config
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.deps.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.dev.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.xml
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extras.Quartz.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapperBuilder.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Dapper.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\log4net.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Quartz.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Client.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Common.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Text.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\TimedJob.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.AssemblyReference.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfoInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfo.cs
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CoreCompileInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.Manifest.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.xml
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Hhmocon.Mes.WebApi.styles.css
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.RazorTargetAssemblyInfo.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CopyComplete
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.genruntimeconfig.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.AssemblyReference.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfoInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfo.cs
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CoreCompileInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NOTICE.TXT
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Production.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.exe
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\XmlConfig\nlog.config
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.deps.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.dev.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.xml
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extras.Quartz.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapperBuilder.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Dapper.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\log4net.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Quartz.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Client.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Common.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Text.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Private.ServiceModel.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\TimedJob.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.Manifest.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.xml
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Hhmocon.Mes.WebApi.styles.css
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.RazorTargetAssemblyInfo.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CopyComplete
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.genruntimeconfig.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Production.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.exe
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\XmlConfig\nlog.config
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.deps.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.dev.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.xml
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extras.Quartz.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapperBuilder.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Dapper.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\log4net.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Quartz.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Client.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Common.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Text.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Private.ServiceModel.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\TimedJob.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.Manifest.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.xml
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Hhmocon.Mes.WebApi.styles.css
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.RazorTargetAssemblyInfo.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CopyComplete
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.genruntimeconfig.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Production.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.exe
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\XmlConfig\nlog.config
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\appsettings.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.deps.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.runtimeconfig.dev.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ref\Hhmocon.Mes.WebApi.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.WebApi.xml
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Autofac.Extras.Quartz.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\AutoMapperBuilder.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Dapper.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\log4net.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\NPOI.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Quartz.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Client.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Common.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ServiceStack.Text.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Private.ServiceModel.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\System.ServiceModel.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\TimedJob.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.Manifest.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\staticwebassets\Hhmocon.Mes.WebApi.StaticWebAssets.xml
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Hhmocon.Mes.WebApi.styles.css
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.RazorTargetAssemblyInfo.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.csproj.CopyComplete
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi\obj\Debug\net5.0\Hhmocon.Mes.WebApi.genruntimeconfig.cache

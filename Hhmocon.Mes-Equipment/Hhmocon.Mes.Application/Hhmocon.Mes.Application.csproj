@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Response\Plan\**" />
+    <EmbeddedResource Remove="Response\Plan\**" />
+    <None Remove="Response\Plan\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Autofac.Extras.Quartz" Version="7.2.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="AutoMapperBuilder" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="5.0.0" />
+    <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hhmocon.Mes.Core\Hhmocon.Mes.Core.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Database.SqlServer\Hhmocon.Mes.Database.SqlServer.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Repository\Hhmocon.Mes.Repository.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Util\Hhmocon.Mes.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Request\WareHouse\IoWareHouseManager\" />
+    <Folder Include="Response\ProcessRoute\" />
+    <Folder Include="Response\WareHouse\IoWareHouseManager\" />
+  </ItemGroup>
+
+</Project>

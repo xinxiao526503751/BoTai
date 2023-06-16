@@ -1,0 +1,2498 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hhmocon.Mes.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.Create(hmocon.Mes.Repository.Domain.base_bom_plus)">
+            <summary>
+            新建bom
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.Delete(System.String[])">
+            <summary>
+            删除bom
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.Update(hmocon.Mes.Repository.Domain.base_bom_plus)">
+            <summary>
+            更新
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.ObtainMaterialPlusNodes">
+            <summary>
+            获取物料类型和定义bom的物料
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.GetBomTreeByParentId(System.String)">
+            <summary>
+            获取以当前bom下的子bom数据
+            </summary>
+            <param name="ParentId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomController.GetBomListByMaterialId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据物料id获取bom列表
+            </summary>
+            <param name="materialId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomDetailController.Create(Hhmocon.Mes.Repository.Domain.base_bom_detail)">
+            <summary>
+            新建bom
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomDetailController.Delete(System.String[])">
+            <summary>
+            删除bom
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomDetailController.Update(Hhmocon.Mes.Repository.Domain.base_bom_detail)">
+            <summary>
+            更新
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseBomDetailController.GetBomDetailListByBomId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据bom获取bom明细
+            </summary>
+            <param name="bomId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseCustomersController.Create(Hhmocon.Mes.Repository.Domain.base_customer)">
+            <summary>
+            新建用户信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseCustomersController.Delete(System.String[])">
+            <summary>
+            根据用户ID 删除用户数据  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseCustomersController.Update(Hhmocon.Mes.Repository.Domain.base_customer)">
+            <summary>
+            更新用户信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseCustomersController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到用户列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseCustomersController.GetDetail(System.String)">
+            <summary>
+             根据ID得到用户明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController">
+            <summary>
+            基础设备分类接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.#ctor(Hhmocon.Mes.Application.Base.BaseEquipmentClassApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.Create(Hhmocon.Mes.Repository.Domain.base_equipment_class)">
+            <summary>
+            新建设备分类信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.Delete(System.String[])">
+            <summary>
+            删除设备分类信息
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.Update(Hhmocon.Mes.Repository.Domain.base_equipment_class)">
+            <summary>
+            更新设备分类信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取设备分类分页数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.GetDetail(System.String)">
+            <summary>
+            根据id得到设备分类明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.GetAll">
+            <summary>
+            页面层级结构左边，获取_parent_id = null的所有数据，以及他们的枝
+            效果等同于GetAll,获取表里所有数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            页面右边，传入设备分类id，得到该设备分类及子设备分类
+            统一：根据定义找定义参数命名root_id
+                  根据类型找定义参数命名type_id
+                   int iPage = req.page;
+                   int iRows = req.rows;
+                   //分页只用到这俩参数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentClassController.SearchBar(Hhmocon.Mes.Application.Request.EquipmentClassSearchBarRequest)">
+            <summary>
+            设备分类页面的搜索框，找设备分类
+            </summary>
+            <param name="equipmentSearchBarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.#ctor(Hhmocon.Mes.Application.BaseEquipmentApp,Hhmocon.Mes.Application.Base.PikachuApp,Microsoft.Extensions.Logging.ILogger{Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController})">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.Create(Hhmocon.Mes.Repository.Domain.base_equipment)">
+            <summary>
+            新建设备信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.Delete(System.String[])">
+            <summary>
+            删除设备同时，删除关联表数据
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.Update(Hhmocon.Mes.Repository.Domain.base_equipment)">
+            <summary>
+            更新设备信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.SearchBar(Hhmocon.Mes.Application.Request.EquipmentSearchBarRequest)">
+            <summary>
+            设备定义页面的搜索框
+            </summary>
+            <param name="equipmentSearchBarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取设备分页数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.GetAll">
+            <summary>
+            获取设备不分页
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.GetDetail(System.String)">
+            <summary>
+            根据id得到设备明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentController.GetEquipmentByLocationId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+             根据地点id获取地点下挂载的设备
+            </summary>
+            <param name="location_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController">
+            <summary>
+            设备子设备关联表控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.#ctor(Hhmocon.Mes.Application.Base.BaseEquipmentSubApp,Hhmocon.Mes.Application.Base.PikachuApp,Microsoft.Extensions.Logging.ILogger{Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController})">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.AddEquipmentSubEquipment(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            向关联表中添加设备子设备
+            </summary>
+            <param name="parent_id">父设备</param>
+            <param name="ids">子设备，页面支持多选</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.GetSecondEquipmentByEquipmentId(System.String)">
+            <summary>
+            传入设备id，通过子设备关联表获取二级设备
+            </summary>
+            <param name="equipment_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.WorkUnitHierarchyTree(System.String)">
+            <summary>
+            通过设备id获取工作单元层级树
+            </summary>
+            <param name="equipment_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.AddSubEquipment(System.String)">
+            <summary>
+            添加设备子设备,选择界面的地点设备树
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentSubController.Delete(System.String,System.String)">
+            <summary>
+            删除设备关联
+            </summary>
+            <param name="id">主设备id</param>
+            <param name="sub_id">下级设备id</param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.SearchBar(Hhmocon.Mes.Application.Request.EquipmentTypeSearchBarRequest)">
+            <summary>
+            设备类型页面的搜索框，找设备类型
+            </summary>
+            <param name="equipmentSearchBarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取设备类型分页数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.Update(Hhmocon.Mes.Repository.Domain.base_equipment_type)">
+            <summary>
+            更新设备类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.Delete(System.String[])">
+            <summary>
+            删除设备类型信息
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.Create(Hhmocon.Mes.Repository.Domain.base_equipment_type)">
+            <summary>
+            新建设备类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.GetDetail(System.String)">
+            <summary>
+            根据id得到设备明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.GetAll">
+            <summary>
+            页面层级结构左边，获取_parent_id = null的所有数据，以及他们的枝叶数据,丢给小高自己去判断
+            效果等同于GetAll,获取表里所有数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseEquipmentTypeController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            页面右边，传入设备类型id，得到该设备类型及子设备类型
+            统一：根据定义找定义参数命名root_id
+                  根据类型找定义参数命名type_id
+                   int iPage = req.page;
+                   int iRows = req.rows;
+                   //分页只用到这俩参数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到点检项目分页列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.Update(Hhmocon.Mes.Repository.Domain.base_examitem)">
+            <summary>
+            更新点检项目信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.Delete(System.String[])">
+            <summary>
+            根据ID删除点检项目，可批量删除（假删除）
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.Create(Hhmocon.Mes.Repository.Domain.base_examitem)">
+            <summary>
+            新建点检项目信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.GetDetail(System.String)">
+            <summary>
+            根据ID得到点检项目明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据传入的type_id和分页数据找叶
+            </summary>
+            <param name="type_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemController.SearchLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            搜索接口
+            </summary>
+            <param name="type_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到点检项目类型分页列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemTypeController.Update(Hhmocon.Mes.Repository.Domain.base_examitem_type)">
+            <summary>
+            更新点检项目类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemTypeController.Delete(System.String[])">
+            <summary>
+            根据ID删除点检项目，可批量删除（假删除）
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemTypeController.Create(Hhmocon.Mes.Repository.Domain.base_examitem_type)">
+            <summary>
+            新建点检项目类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseExamitemTypeController.GetDetail(System.String)">
+            <summary>
+            根据ID得到点检项目类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到地点类型分页列表数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.Update(Hhmocon.Mes.Repository.Domain.base_location)">
+            <summary>
+            更新地点类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.Delete(System.String[])">
+            <summary>
+            根据地点ID 删除所有关联地点  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.Create(Hhmocon.Mes.Repository.Domain.base_location)">
+            <summary>
+            新建地点类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.GetDetail(System.String)">
+            <summary>
+            根据ID得到地点类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.GetAll">
+            <summary>
+            返回表中所有数据不分页
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.SearchLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            搜索按钮接口
+            </summary>
+            <param name="root_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据传入的id获取该id数据
+            并根据parentname字段得到子数据
+            </summary>
+            <param name="root_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到地点类型分页列表数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.Update(Hhmocon.Mes.Repository.Domain.base_location_type)">
+            <summary>
+            更新地点类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.Delete(System.String[])">
+            <summary>
+            根据地点类型IDs 删除地点类型和所有有关联的地点  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.Create(Hhmocon.Mes.Repository.Domain.base_location_type)">
+            <summary>
+            新建地点类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.GetDetail(System.String)">
+            <summary>
+            根据ID得到地点类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseLocationTypeController.GetAll">
+            <summary>
+            返回表中所有数据不分页
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.Create(Hhmocon.Mes.Repository.Domain.base_material)">
+            <summary>
+            新建物料信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.SearchBar(Hhmocon.Mes.Application.Request.MaterialSearchBarRequest)">
+            <summary>
+            物料类型下的物料界面的 左上角的 搜索框
+            功能:输入code或者name,根据code或者name查询
+            选中物料类型时，会传入type_id，不选中时传入的dept_id=null
+            
+            
+            有错  为解决
+            </summary>
+            <param name="materialSearchBarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到物料分页列表数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.GetAllBy_materialTypeName(System.String)">
+            <summary>
+            根据传入的material_type_name查找所有material的属性有该materialTypeId的元素
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.Update(Hhmocon.Mes.Repository.Domain.base_material)">
+            <summary>
+            更新物料信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.Delete(System.String[])">
+            <summary>
+            根据物料ID 删除物料  可批量删除  假删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.GetDetail(System.String)">
+            <summary>
+            根据ID得到材料类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据传入的type_id和分页数据找叶
+            </summary>
+            <param name="type_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到材料类型分页列表数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.Update(Hhmocon.Mes.Repository.Domain.base_material_type)">
+            <summary>
+            更新地点类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.DeleteMask(System.String[])">
+            <summary>
+            根据材料类型ID 假删除地点类型  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.Create(Hhmocon.Mes.Repository.Domain.base_material_type)">
+            <summary>
+            新建材料类型信息,如果类型编码重复则提示不能添加
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.GetDetail(System.String)">
+            <summary>
+            根据ID得到材料类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseMaterialTypeController.GetAll">
+            <summary>
+            获取表里所有数据
+            丢给前端自己去判断哪个是根节点
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到工序分页列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.Update(Hhmocon.Mes.Repository.Domain.base_process)">
+            <summary>
+            更新工序信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.Delete(System.String[])">
+            <summary>
+            根据ID 删除工序  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.Create(Hhmocon.Mes.Repository.Domain.base_process)">
+            <summary>
+            新建工序信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.GetDetail(System.String)">
+            <summary>
+            根据ID得到工序明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.GetLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据传入的_type_id和分页数据找叶
+            </summary>
+            <param name="type_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessController.SearchLeafs(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            搜索接口
+            </summary>
+            <param name="type_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到工序类型分页列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.Update(Hhmocon.Mes.Repository.Domain.base_process_type)">
+            <summary>
+            更新工序类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.Delete(System.String[])">
+            <summary>
+            根据ID 删除工序类型  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.Create(Hhmocon.Mes.Repository.Domain.base_process_type)">
+            <summary>
+            新建工序类型信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.GetDetail(System.String)">
+            <summary>
+            根据ID得到工序类型明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseProcessTypeController.GetAll">
+            <summary>
+            获取所有parentname is null的工序类型及子类型
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseSuppliersController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到供应商列表数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseSuppliersController.Update(Hhmocon.Mes.Repository.Domain.base_supplier)">
+            <summary>
+            更新供应商信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseSuppliersController.Delete(System.String[])">
+            <summary>
+            根据用户ID 删除供应商数据  可批量删除
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseSuppliersController.Create(Hhmocon.Mes.Repository.Domain.base_supplier)">
+            <summary>
+            新建供应商信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Base.BaseSuppliersController.GetDetail(System.String)">
+            <summary>
+             根据ID得到供应商明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController">
+            <summary>
+            登录接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.CheckContext">
+            <summary>
+            检查授权策略
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.GetStatus">
+            <summary>
+            检验token是否有效
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.Login(Hhmocon.Mes.Repository.LoginRelated.PassportLoginRequest)">
+            <summary>
+            登录接口
+            </summary>
+            <param name="request">登录参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.Logout">
+            <summary>
+            注销登录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.GetUserName">
+            <summary>
+            根据Token获取用户名称
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController.GetRight">
+            <summary>
+            获取权限菜单栏
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController">
+            <summary>
+            设备点检项接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.#ctor(Hhmocon.Mes.Application.Exam.ExamEquipmentItemApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            设备点检项控制器
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.Create(Hhmocon.Mes.Repository.Domain.exam_equipment_item)">
+            <summary>
+            新增挂载在设备下的点检定义
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取所有关联数据
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.Delete(System.String[])">
+            <summary>
+            删除挂载在设备下的点检定义
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.Update(Hhmocon.Mes.Repository.Domain.exam_equipment_item)">
+            <summary>
+            更新
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.GetExamitemByEquipmentIdSampleData(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+             根据设备ID获取挂载下面点检项目简单数据
+            </summary>
+            <param name="equipment_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.GetExamitemByEquipmentId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据设备ID获取挂载下面点检项目详情数据
+            </summary>
+            <param name="equipment_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamEquipmentItemController.GetDetail(System.String)">
+            <summary>
+            根据exam_equipment_item_id获取特定的一条关联参数
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController">
+            <summary>
+            点检计划-点检时间
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.Create(System.Collections.Generic.List{System.Object})">
+            <summary>
+            添加点检计划,和点检规则
+            </summary>
+            <param name="all"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.Delete(System.String[])">
+            <summary>
+            删除点检计划
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.Update(Hhmocon.Mes.Repository.Domain.exam_plan_method)">
+            <summary>
+            更改点检计划
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            点检计划分页
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.GetDetail(System.String)">
+            <summary>
+             根据ID得到点检计划明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.GetAll">
+            <summary>
+            获取所有点检计划
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodController.GetExamPlanMethodByEquipmentId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据EquipmentId获取该设备下的点检计划
+            </summary>
+            <param name="equipment_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodEquipmentController">
+            <summary>
+            点检计划-设备关联表
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodEquipmentController.Create(Hhmocon.Mes.Repository.Domain.exam_plan_method_equipment)">
+            <summary>
+            新增点检计划-设备关联
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodEquipmentController.GetExamPlanMethodEquipmentByPlanId(System.String)">
+            <summary>
+            传入点检计划id获取 点检计划-设备 关联信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodEquipmentController.Delete(System.String[])">
+            <summary>
+            传入点检计划-设备关联信息id  删除对应的关联
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodItemController">
+            <summary>
+            点检计划-点检项关联表
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodItemController.Create(Hhmocon.Mes.Repository.Domain.exam_plan_method_item)">
+            <summary>
+            新增设备-点检项关联
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodItemController.GetItemByPlanIdAndEquipmentId(System.String,System.String)">
+            <summary>
+            传入点检计划和设备id 在计划-项目表的数据中 获取计划-点检项目关联  前端获取计划中设备下的点检项信息
+            </summary>
+            <param name="exam_plan_method_id"></param>
+            <param name="equipment_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodItemController.GetItemByPlanId(System.String)">
+            <summary>
+            传入设备点检计划id，获取对应的设备点检计划项目
+            </summary>
+            <param name="exam_plan_method_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodItemController.Delete(System.String[])">
+            <summary>
+            传入点检计划-点检项目关联信息id  删除对应的关联
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodRuleController">
+            <summary>
+            设备-点检项目关联表
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodRuleController.Delete(System.String[])">
+            <summary>
+            删除点检计划-时间
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodRuleController.Update(Hhmocon.Mes.Repository.Domain.exam_plan_method_rule)">
+            <summary>
+            更改点检规则
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanMethodRuleController.GetExamPlanMethodRuleByExamPlanId(System.String)">
+            <summary>
+            根据点检计划Id获取点检计划下挂载的时间规则
+            </summary>
+            <param name="exam_plan_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecController.Create(Hhmocon.Mes.Repository.Domain.exam_plan_rec)">
+            <summary>
+            手动创建点检计划记录
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取所有设备下的点检计划记录
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecController.GetExamPlanRecByEquipmentId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据EquipmentId获取该设备下的点检计划记录
+            </summary>
+            <param name="equipment_id"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecItemController.CreateItem(Hhmocon.Mes.Repository.Domain.exam_plan_rec_item)">
+            <summary>
+            创建点检项目记录，只在调试用
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecItemController.CreateRecAndItem(System.Collections.Generic.List{Hhmocon.Mes.Repository.Domain.exam_plan_method_item})">
+            <summary>
+            手动创建点检计划记录与项目
+            </summary>
+            <param name="objList"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Exam.ExamPlanRecItemController.GetExamPlanRecItemByRecId(System.String)">
+            <summary>
+            获取该点检单下的具体点检项目
+            </summary>
+            <param name="RecId"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController">
+            <summary>
+            事件类型控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.Create(Hhmocon.Mes.Repository.Domain.base_fault_class)">
+            <summary>
+            新建事件类型定义
+            </summary>
+            <param name="obj">新增的对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.Delete(System.String[])">
+            <summary>
+            删除事件类型定义
+            </summary>
+            <param name="ids">删除的id，支持多选</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.Update(Hhmocon.Mes.Repository.Domain.base_fault_class)">
+            <summary>
+            修改事件类型定义
+            </summary>
+            <param name="obj">更改后的对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到事件类型列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.GetDetail(System.String)">
+            <summary>
+            得到事件类型详细
+            </summary>
+            <param name="id">对象id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultClassController.GetAll">
+            <summary>
+            以Tree的形式获取表里所有数据
+            </summary>
+            <returns>List[TreeModel]形式</returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController">
+            <summary>
+            事件定义控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.#ctor(Hhmocon.Mes.Application.BaseFaultApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.Create(Hhmocon.Mes.Repository.Domain.base_fault)">
+            <summary>
+            新建事件定义
+            </summary>
+            <param name="obj">新增的对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.Delete(System.String[])">
+            <summary>
+            删除事件定义
+            </summary>
+            <param name="ids">删除的对象ids</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.Update(Hhmocon.Mes.Repository.Domain.base_fault)">
+            <summary>
+            修改事件定义
+            </summary>
+            <param name="obj">修改后的对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到事件列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.SearchBar(Hhmocon.Mes.Application.Request.FaultSearchBarRequest)">
+            <summary>
+            事件定义页面的搜索框
+            </summary>
+            <param name="equipmentSearchBarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.GetDetail(System.String)">
+            <summary>
+            得到事件详细
+            </summary>
+            <param name="id">对象id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultController.GetFaultByFaultClassId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            通过事件类型id获取挂载的事件
+            </summary>
+            <param name="fault_class_id">事件类型id</param>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController">
+            <summary>
+            事件通知配置控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.Create(Hhmocon.Mes.Application.Request.FaultNoticecfgRequest)">
+             <summary>
+             新建事件通知配置.该控制器对应事件通知配置页面右上角的保存按钮，
+             由于通知人员可以多选，需对user进行解析
+             由于通知类型包含微信、短信、email三种，需解析
+            
+             </summary>
+             <param name="faultNoticecfgRequest"></param>
+             <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.Delete(System.String[])">
+            <summary>
+            删除事件通知配置
+            </summary>
+            <param name="ids">删除的对象ids</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.Update(Hhmocon.Mes.Repository.Domain.base_fault_noticecfg)">
+            <summary>
+            修改事件通知配置
+            </summary>
+            <param name="obj">修改后的对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到事件通知配置
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.GetDetail(System.String)">
+            <summary>
+            得到事件通知配置详细信息
+            </summary>
+            <param name="id">对象id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.GetFailClassAndFailTree">
+            <summary>
+            左边事件类型+事件名称树
+            </summary>
+            <returns>List[TreeModel]</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.GetDeptAndUserTree">
+            <summary>
+            获取部门+用户树
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.BaseFaultNoticecfgController.GetByNoticeLevelAndFaultId(System.String,System.String)">
+            <summary>
+            通过事件id和通知等级notice_level获取已保存的配置人员
+            </summary>
+            <param name="fault_id">事件id</param>
+            <param name="notice_level">通知等级</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordController">
+            <summary>
+            事件记录控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordController.ReportFault(Hhmocon.Mes.Application.Request.FaultReportRequest)">
+            <summary>
+            上报事件,生成事件记录的同时生成事件记录流程
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordController.DealFault(Hhmocon.Mes.Application.Request.DealRecordRequest)">
+            <summary>
+            点击处理事件按钮以后弹出的处理界面的确认、处理、关闭按钮
+            未确认的时候，confirm_flag=0 处理和关闭按钮要是灰的
+            </summary>
+            <param name="dealRecordRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordController.FaultRecordRequest(System.String)">
+            <summary>
+            请求已有的异常事件记录,可根据设备名称分类查询
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordFlowController">
+            <summary>
+            事件记录流程控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordFlowController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.FaultRecordFlowApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="faultRecordFlowApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Fault.FaultRecordFlowController.GetAlreadyExistsFlowByFaultRecordId(System.String)">
+            <summary>
+            根据时间记录id获取已经执行的流程的
+            执行人和执行时间
+            </summary>
+            <param name="fault_record_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.UpLoadFiles.UploadFilesController">
+            <summary>
+            文件上传控制器  流式上传大文件
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.UpLoadFiles.UploadFilesController.#ctor(Microsoft.Extensions.Logging.ILogger{Hhmocon.Mes.WebApi.Controllers.UpLoadFiles.UploadFilesController},Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Hhmocon.Mes.Application.Base.BaseFilesApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            Ctor
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.UpLoadFiles.UploadFilesController.UploadLargeFiles(System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile},System.String,System.String)">
+            <summary>
+            表单文件传输
+            </summary>
+            <param name="files"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.UpLoadFiles.UploadFilesController.GetListByProcessId(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            根据工序Id获取文档列表
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController">
+            <summary>
+            计划控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.Plan.PlanProcessApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="picachuApp"></param>
+            <param name="planProcessApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController.Create(Hhmocon.Mes.Repository.Domain.sale_order_detail)">
+            <summary>
+            新增计划
+            计划是从物料订单增加的
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController.Delete(System.String[])">
+            <summary>
+            删除计划
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController.Update(Hhmocon.Mes.Repository.Domain.plan_process)">
+            <summary>
+            更新计划
+            </summary>
+            <param name="obj">仓库定义对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanProcessController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到计划列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController">
+            <summary>
+            计划工单控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.Plan.PlanWorkApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="picachuApp"></param>
+            <param name="planWorkApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.Create(Hhmocon.Mes.Repository.Domain.plan_work)">
+            <summary>
+            排产接口
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.SchedulingOrder(Hhmocon.Mes.Repository.Domain.plan_work)">
+            <summary>
+            工单调度接口
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取计划工单
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.GetListByLocationId(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            获取设备工单列表
+            </summary>
+            <param name="req"></param>
+            <param name="LoactionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.GetDetail(System.String)">
+            <summary>
+            获取设备工单详情信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.Update(Hhmocon.Mes.Repository.Domain.plan_work)">
+            <summary>
+            更新报工
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.Start(System.String)">
+            <summary>
+            启动接口
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.Pause(System.String)">
+            <summary>
+            暂停接口
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkController.Finish(System.String)">
+            <summary>
+            完成接口
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController">
+            <summary>
+            生产报工控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController.Create(Hhmocon.Mes.Repository.Domain.plan_work_rpt)">
+            <summary>
+            生产报工
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController.Update(Hhmocon.Mes.Repository.Domain.plan_work_rpt)">
+            <summary>
+            更新修改
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController.GetDetail(System.String)">
+            <summary>
+            报工详情
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController.GetEqpByPlanWorkId(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            根据计划工单表对应报工记录表 找出设备列表 
+            </summary>
+            <param name="req"></param>
+            <param name="PlanWorkId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Plan.PlanWorkRptController.CreatePro(System.String,System.String,System.String)">
+            <summary>
+            报工pro版 处理报工数量 
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController">
+            <summary>
+            工艺路线规则
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.Base.BaseProcessRouteApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="planWorkApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.Create(Hhmocon.Mes.Repository.Domain.base_process_route)">
+            <summary>
+            新增工艺路线规则
+            同一种物料可以新增多条工艺路线
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.Delete(System.String[])">
+            <summary>
+            删除工艺路线规则
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.Update(Hhmocon.Mes.Repository.Domain.base_process_route)">
+            <summary>
+            修改工艺路线规则
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到工艺路线规则列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteController.GetProcessRouteByMaterialId(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            根据物料id获取工艺路线
+            </summary>
+            <param name="req"></param>
+            <param name="material_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController">
+            <summary>
+            工艺路线规则的工序详情
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.Base.BaseProcessRouteDetailApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="ProcessRouteDetailApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.Create(Hhmocon.Mes.Repository.Domain.base_process_route_detail)">
+            <summary>
+            新增工艺路线规则
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.Delete(System.String[])">
+            <summary>
+            删除工艺路线规则
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.Update(Hhmocon.Mes.Repository.Domain.base_process_route_detail)">
+            <summary>
+            修改工艺路线规则工艺详细信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到工艺路线规则工序详细信息的列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.GetProcessRouteDetailByProcessRouteId(System.String)">
+            <summary>
+            根据工艺路线id获取工艺路线工序细节
+            </summary>
+            <param name="process_route_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteDetailController.GetProcessRouteDetailByMaterialId(System.String)">
+            <summary>
+            根据MatertialId获取工艺路线详情数据，不分页
+            </summary>
+            <param name="material_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController">
+            <summary>
+            工艺路线规则物料细节
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.Base.BaseProcessRouteDetailMaterialApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="BaseProcessRouteDetailMaterialApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.Create(System.Collections.Generic.List{Hhmocon.Mes.Repository.Domain.base_process_route_material})">
+            <summary>
+            新增工艺路线规则的工序细节的物料细节
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.Delete(System.String[])">
+            <summary>
+            删除工艺路线规则物料细节
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.Update(Hhmocon.Mes.Repository.Domain.base_process_route_material)">
+            <summary>
+            修改工艺路线规则物料细节
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到工艺路线规则工序详细信息的列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.ProcessRoute.ProcessRouteMaterialController.GetProcessRouteMaterialByProcessRouteIdAndProcessId(System.String,System.String)">
+            <summary>
+            通过工艺路线id和工序id获取工艺路线物料需求
+            </summary>
+            <param name="process_route_id"></param>
+            <param name="process_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController">
+            <summary>
+            订单控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.SaleOrderApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="picachuApp"></param>
+            <param name="saleOrderApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController.Create(Hhmocon.Mes.Repository.Domain.sale_order)">
+            <summary>
+            新增订单
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController.Delete(System.String[])">
+            <summary>
+            删除订单
+            </summary>
+            <param name="ids">仓库定义id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController.Update(Hhmocon.Mes.Repository.Domain.sale_order)">
+            <summary>
+            更新订单
+            </summary>
+            <param name="obj">仓库定义对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到列表列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController">
+            <summary>
+            物料订单控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.SaleOrderDetailApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="picachuApp"></param>
+            <param name="saleOrderApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController.Insert(Hhmocon.Mes.Repository.Domain.sale_order_detail)">
+            <summary>
+            新增物料订单
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController.Delete(System.String[])">
+            <summary>
+            删除物料订单
+            </summary>
+            <param name="ids">仓库定义id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController.Update(Hhmocon.Mes.Repository.Domain.sale_order_detail)">
+            <summary>
+            更新订单
+            </summary>
+            <param name="obj">仓库定义对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderDetailController.GetListByOrderId(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            根据订单id获取订单详情
+            </summary>
+            <param name="req"></param>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderManagerController">
+            <summary>
+            订单管理控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SaleOrder.SaleOrderManagerController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.SaleOrderApp,Hhmocon.Mes.Application.SaleOrderDetailApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="picachuApp"></param>
+            <param name="saleOrderApp"></param>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SysDeptController">
+            <summary>
+            部门接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.#ctor(Hhmocon.Mes.Application.SysDeptApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            部门控制器构造函数
+            </summary>
+            <param name="app"></param>
+            <param name="pikachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.Create(Hhmocon.Mes.Repository.Domain.sys_dept)">
+            <summary>
+            新建部门信息
+            </summary>
+            <param name="obj">部门对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.Delete(System.String[])">
+            <summary>
+            删除部门信息
+            </summary>
+            <param name="ids">部门id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.Update(Hhmocon.Mes.Repository.Domain.sys_dept)">
+            <summary>
+            更新部门信息
+            </summary>
+            <param name="obj">部门对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到部门列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetListForSpecialDept(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            给部门专门做一个查询的接口，限制于该部门和子部门
+            </summary>
+            <param name="req">分页参数</param>
+            <param name="dept_id">部门id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetDetail(System.String)">
+            <summary>
+             根据ID得到部门明细信息
+            </summary>
+            <param name="id">部门id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetAll">
+            <summary>
+            返回表中所有数据不分页，用来给前端使用插件生成用户管理界面下左侧的部门树状栏
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetYourAll">
+            <summary>
+            "再给我做个不分页获取全部部门列表的接口吧"
+            "我要列表的"
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetSubDeptByDeptId(System.String,Hhmocon.Mes.Application.PageReq,System.Int32)">
+            <summary>
+            根据部门id获取所有子部门
+            </summary>
+            <param name="sys_dept_id">部门id，为Null时获取所有部门</param>
+            <param name="rootneed">得到的值中是否添加根节点.1加0不加</param>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysDeptController.GetUserByDeptId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            传入部门id获取挂载在部门下的用户
+            </summary>
+            <param name="dept_id">部门id</param>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController">
+            <summary>
+            单位定义控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.#ctor(Hhmocon.Mes.Application.SysParmApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            单位控制器
+            </summary>
+            <param name="app"></param>
+            <param name="pikachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.Insert(Hhmocon.Mes.Repository.Domain.sys_parm)">
+            <summary>
+            新增单位
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.Delete(System.String[])">
+            <summary>
+            删除单位
+            </summary>
+            <param name="ids">单位id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.Update(Hhmocon.Mes.Repository.Domain.sys_parm)">
+            <summary>
+            更新单位信息
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到单位列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmController.GetParamByParamType(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            通过参数类型名称获取参数类型下的参数
+            </summary>
+            <param name="req"></param>
+            <param name="ParamTypeName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController">
+            <summary>
+            单位类型控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController.#ctor(Hhmocon.Mes.Application.SysParmTypeApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            单位类型控制器
+            </summary>
+            <param name="app"></param>
+            <param name="pikachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController.Insert(Hhmocon.Mes.Repository.Domain.sys_parm_type)">
+            <summary>
+            新增单位类型
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController.Delete(System.String[])">
+            <summary>
+            删除单位类型
+            </summary>
+            <param name="ids">单位类型id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController.Update(Hhmocon.Mes.Repository.Domain.sys_parm_type)">
+            <summary>
+            更新单位类型
+            </summary>
+            <param name="obj">单位类型对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysParmTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到单位类型列表
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController">
+            <summary>
+            权限接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.Create(Hhmocon.Mes.Repository.Domain.sys_right)">
+            <summary>
+            新增权限数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.Delete(System.String[])">
+            <summary>
+            删除权限数据
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.Update(Hhmocon.Mes.Repository.Domain.sys_right)">
+            <summary>
+            更新权限数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.GetSysNodes">
+            <summary>
+            获取系统数据，返回树格式
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.GetRightBySysId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据系统级ID获取菜单级数据
+            </summary>
+            <param name="SysId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.SearchRightBySysId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            搜索按钮接口
+            </summary>
+            <param name="SysId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.GetButtonByRightId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据权限级ID获取按钮级数据
+            </summary>
+            <param name="rightId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.ObtainAllNodes">
+            <summary>
+            返回树结构用于给角色权限页面菜单栏
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRightController.ObtainSysRoleNodes">
+            <summary>
+            废弃
+            </summary>
+            <param name="RoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysRoleRightController">
+            <summary>
+            角色权限控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRoleRightController.GiveRolePermissions(System.String,System.String[])">
+            <summary>
+            给角色赋权限
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRoleRightController.ObtainNodesByRole(System.String)">
+            <summary>
+            根据角色返回树结构用于给角色权限页面菜单栏
+            默认不选定任何按钮
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRoleRightController.ObtainSysRoleByRoleId(System.String)">
+            <summary>
+            通过RoleId返回rightId数组
+            </summary>
+            <param name="roleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysRoleRightController.ObtainSysRoleNodesByRoleId(System.String)">
+            <summary>
+            根据角色ID获取左边菜单栏
+            </summary>
+            <param name="roleId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysSubRightController">
+            <summary>
+            按钮权限接口(已废弃)
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysSubRightController.Create(Hhmocon.Mes.Repository.Domain.sys_sub_right)">
+            <summary>
+            新增按钮权限数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysSubRightController.Delete(System.String[])">
+            <summary>
+            删除按钮权限数据
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysSubRightController.Update(Hhmocon.Mes.Repository.Domain.sys_sub_right)">
+            <summary>
+            更新按钮权限数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysSubRightController.GetByParentId(System.String,Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            根据上级权限ID获取按钮权限数据
+            </summary>
+            <param name="ParentId"></param>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController">
+            <summary>
+            用户接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.#ctor(Hhmocon.Mes.Application.SysUserApp,Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.SysUserRoleApp)">
+            <summary>
+            用户控制器构造函数
+            </summary>
+            <param name="app"></param>
+            <param name="pikachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.Create(Hhmocon.Mes.Application.Request.CreateUserRequest)">
+            <summary>
+            新建用户信息
+            </summary>
+            <param name="obj">用户对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.Delete(System.String[])">
+            <summary>
+            删除用户信息
+            </summary>
+            <param name="ids">用户id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.Update(Hhmocon.Mes.Application.Request.UpdateUserRequest)">
+            <summary>
+            更新用户信息
+            </summary>
+            <param name="updateUserRequest">用户对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.SearchBar(Hhmocon.Mes.Application.Request.SysUserSearchBarRequest)">
+            <summary>
+            部门下的用户界面的 左上角的 搜索框
+            功能:用户输入name,根据name或ch_name查询
+            选中部门时，会传入dept_id，不选中时传入的dept_id=null
+            </summary>
+            <param name="sysUserSearchBar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到用户列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserController.GetDetail(System.String)">
+            <summary>
+             根据ID得到用户明细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserDeptController">
+            <summary>
+            用户部门接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserDeptController.#ctor(Hhmocon.Mes.Application.SysUserDeptApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            用户部门控制器构造函数
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserRoleController">
+            <summary>
+            用户角色接口
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserRoleController.#ctor(Hhmocon.Mes.Application.SysUserRoleApp,Hhmocon.Mes.Application.Base.PikachuApp)">
+            <summary>
+            用户角色控制器构造函数
+            </summary>
+            <param name="app"></param>
+            <param name="picachuApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.Sys.SysUserRoleController.GetRolesByUserId(System.String)">
+            <summary>
+            根据用户Id在关联表获取用户的角色
+            </summary>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SysRoleController">
+            <summary>
+            角色控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysRoleController.Create(Hhmocon.Mes.Repository.Domain.sys_role)">
+            <summary>
+            新增角色
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysRoleController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            获取role列表
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysRoleController.Delete(System.String[])">
+            <summary>
+            删除角色
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.SysSystemController">
+            <summary>
+            系统接口(已废弃)
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysSystemController.Create(Hhmocon.Mes.Repository.Domain.sys_system)">
+            <summary>
+            新增系统数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysSystemController.Delete(System.String[])">
+            <summary>
+            删除系统数据
+            </summary>
+            <param name="ids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysSystemController.Update(Hhmocon.Mes.Repository.Domain.sys_system)">
+            <summary>
+            更新系统数据
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysSystemController.ObtainAllNodes">
+            <summary>
+            遍历获取所有根节点及下面的子节点
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.SysSystemController.ObtainSysRigNodes">
+            <summary>
+            返回树结构用于页面左边Sys加Right
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController">
+            <summary>
+            出入库管理控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.WareHouseApp,Hhmocon.Mes.Application.WareHouseIoRecApp,AutoMapper.IMapper)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="WareHouseApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.LocationWareHouseTree">
+            <summary>
+            出入库管页面，左边的地点仓库树 地点-仓库
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到出入库记录数据
+            </summary>
+            <param name="req">
+            参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.GetIoWareHouseRec(System.String,System.Int32)">
+            <summary>
+            根据地点id或仓库id获取出入库记录
+            </summary>
+            <param name="id">地点id或者仓库id</param>
+            <param name="IOopration">出入库操作 0入库 1出库 3都要 默认值3</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.CheckIoWareHouseOperation(System.Collections.Generic.List{Hhmocon.Mes.Repository.Domain.warehouse_io_rec})">
+            <summary>
+            入库操作时对数量进行检验
+            </summary>
+            <param name="WareHouseRecs"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.IoWareHouseOperation(System.Collections.Generic.List{Hhmocon.Mes.Repository.Domain.warehouse_io_rec})">
+            <summary>
+            入库操作,可以多条记录同时入库
+            </summary>
+            <param name="WareHouseRecs">仓库id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.MoveOperation(System.Collections.Generic.List{Hhmocon.Mes.Application.Request.MoveRequest},System.String)">
+            <summary>
+            调拨操作
+            </summary>
+            <param name="MoveRequests"></param>
+            <param name="rec_id">选中的记录id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.CheckOperation(System.String,System.Int32)">
+            <summary>
+            盘点操作
+            </summary>
+            <param name="warehouse_io_rec_id"></param>
+            <param name="num"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseManagerController.GetNumOfWareLoc(System.String)" -->
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController">
+            <summary>
+            出入库类型控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.IoWareHouseTypeApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="iOWareHouseTypeApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController.CreateWareHouseType(Hhmocon.Mes.Repository.Domain.base_iowarehouse_type)">
+            <summary>
+            新建出入库类型信息
+            </summary>
+            <param name="obj">部门对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController.Delete(System.String[])">
+            <summary>
+            删除出入库类型信息
+            </summary>
+            <param name="ids">出入库类型id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController.Update(Hhmocon.Mes.Repository.Domain.base_iowarehouse_type)">
+            <summary>
+            更新出入库类型信息
+            </summary>
+            <param name="obj">出入库类型对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.IOWareHouseTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到出入库列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController">
+            <summary>
+            仓库定义控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.WareHouseApp,AutoMapper.IMapper)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="WareHouseApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.Insert(Hhmocon.Mes.Repository.Domain.base_warehouse)">
+            <summary>
+            新增仓库定义
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.Delete(System.String[])">
+            <summary>
+            删除仓库定义
+            </summary>
+            <param name="ids">仓库定义id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.Update(Hhmocon.Mes.Repository.Domain.base_warehouse)">
+            <summary>
+            更新仓库定义
+            </summary>
+            <param name="obj">仓库定义对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.GetList(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            根据传入的地点Id,得到仓库定义列表数据
+            </summary>
+            <param name="req">
+            参数</param>
+            <returns>BaseWareHouseResponse</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.LocationTree(System.String)">
+            <summary>
+            地点树,null获取所有地点树，id获取id为根的地点树
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.GetWareHouseByLocationId(System.String)">
+            <summary>
+            根据传入的地点Id获取地点下的仓库,传Null时获取所有仓库
+            </summary>
+            <param name="location_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseController.SearchBar(Hhmocon.Mes.Application.PageReq,System.String)">
+            <summary>
+            仓库定义页面的搜索框，地点-仓库定义
+            </summary>
+            <param name="req"></param>
+            <param name="location_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController">
+            <summary>
+            仓库位置控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.WareHouseLocApp,AutoMapper.IMapper)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="WareHouseLocApp"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController.Insert(Hhmocon.Mes.Application.Request.WareHouseLocRequest)">
+            <summary>
+            新增仓库库位
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController.Delete(System.String[])">
+            <summary>
+            删除仓库库位
+            </summary>
+            <param name="ids">仓库库位id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController.Update(Hhmocon.Mes.Repository.Domain.base_warehouse_loc)">
+            <summary>
+            更新仓库定义
+            </summary>
+            <param name="obj">仓库定义对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseLocController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到库位列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController">
+            <summary>
+            仓库类型控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController.#ctor(Hhmocon.Mes.Application.Base.PikachuApp,Hhmocon.Mes.Application.WareHouseTypeApp)">
+            <summary>
+            ctor
+            </summary>
+            <param name="pikachuApp"></param>
+            <param name="WareHouseTypeApp"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController.Insert(Hhmocon.Mes.Repository.Domain.base_warehouse_type)">
+            <summary>
+            新增仓库类型
+            </summary>
+            <param name="obj"></param>
+            <returns>warehouse_type_id</returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController.Delete(System.String[])">
+            <summary>
+            删除仓库类型信息
+            </summary>
+            <param name="ids">仓库类型id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController.Update(Hhmocon.Mes.Repository.Domain.base_warehouse_type)">
+            <summary>
+            更新出仓库类型信息
+            </summary>
+            <param name="obj">仓库类型对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Controllers.WareHouse.WareHouseTypeController.GetList(Hhmocon.Mes.Application.PageReq)">
+            <summary>
+            得到出入库列表数据
+            </summary>
+            <param name="req">分页参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.s.DownLoadFiles.DownLoadFilesController">
+            <summary>
+            流式下载大文件控制器
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.s.DownLoadFiles.DownLoadFilesController.DownloadBigFileNotAsync(System.String)">
+            <summary>
+            DownloadBigFile用于下载大文件，循环读取大文件的内容到服务器内存，然后发送给客户端浏览器
+            测试可用
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.s.DownLoadFiles.DownLoadFilesController.DownloadBigFileAsync(System.String)">
+            <summary>
+            代码作废，异步下载目前不知道怎么通过swagger测试，也缺少前端代码进行测试，不知道这种写法能不能用
+            2021/11/2
+            </summary>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.s.DownLoadFiles.DownLoadFilesController.DownLoad(System.String)">
+            <summary>
+            文件流的方式输出        /// </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Model.GlobalHttpHeaderOperationFilter">
+            <summary>
+            swagger请求头
+            </summary>
+        </member>
+        <member name="T:Hhmocon.Mes.WebApi.Model.StartupLogger">
+            <summary>
+            从3.0开始Startup ConfigureServices中不能使用ILogger，需要扩展
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Model.StartupLogger.#ctor(Microsoft.Extensions.Logging.ILogger{Hhmocon.Mes.WebApi.Model.StartupLogger})">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Model.StartupLogger.LogInformation(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="F:Hhmocon.Mes.WebApi.Startup.HhmoconMesAllowSpecificOrigins">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Hhmocon.Mes.WebApi.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            Autofac的配置容器
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.Application.TimeJob.TestJob.specifyDateFunction(System.String,System.String,Hhmocon.Mes.Repository.Domain.exam_plan_method)">
+            <summary>
+            指定时间执行函数
+            </summary>
+            <param name="occur_condition"></param>
+            <param name="AdvanceOccurCondition"></param>
+            <param name="item"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.Application.TimeJob.TestJob.monthlylyPlanningFunction(System.String,System.String,Hhmocon.Mes.Repository.Domain.exam_plan_method)">
+            <summary>
+            月计划执行函数
+            </summary>
+            <param name="occur_condition"></param>
+            <param name="AdvanceOccurCondition"></param>
+            <param name="item"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.Application.TimeJob.TestJob.weeklyPlanningFunction(System.String,System.String,Hhmocon.Mes.Repository.Domain.exam_plan_method)">
+            <summary>
+            周计划执行函数
+            </summary>
+            <param name="occur_condition"></param>
+            <param name="AdvanceOccurCondition"></param>
+            <param name="item"></param>
+        </member>
+        <member name="M:Hhmocon.Mes.Application.TimeJob.TestJob.dailyScheduleFunction(System.String,System.DateTime,Hhmocon.Mes.Repository.Domain.exam_plan_method)">
+            <summary>
+            间隔天数计划执行函数
+            </summary>
+            <param name="occur_condition"></param>
+            <param name="ComparetimeAdvance"></param>
+            <param name="item"></param>
+        </member>
+    </members>
+</doc>

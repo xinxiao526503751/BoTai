@@ -1,0 +1,100 @@
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\NOTICE.TXT
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.deps.json
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.AssemblyReference.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfoInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfo.cs
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CoreCompileInputs.cache
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CopyComplete
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+D:\MesGit(gitbit)\Mes_Api3\Mes_Api\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\NOTICE.TXT
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.deps.json
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.AssemblyReference.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfoInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfo.cs
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CoreCompileInputs.cache
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CopyComplete
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\项目资料\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.deps.json
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CopyComplete
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\NOTICE.TXT
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.deps.json
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Application.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Core.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.SqlServer.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Repository.xml
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Util.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\bin\Debug\net5.0\Hhmocon.Mes.Database.pdb
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.AssemblyReference.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfoInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.AssemblyInfo.cs
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CoreCompileInputs.cache
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.csproj.CopyComplete
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\ref\Hhmocon.Mes.Application.dll
+E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.Application\obj\Debug\net5.0\Hhmocon.Mes.Application.pdb

@@ -1,0 +1,697 @@
+2023-06-08 11:25:07.6078|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2023-06-08 11:25:08.3536|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2023-06-08 11:25:08.4288|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2023-06-08 11:25:08.4288|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2023-06-08 11:25:08.4540|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 11:25:08.4540|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2023-06-08 11:25:08.4540|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2023-06-08 11:25:08.4540|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2023-06-08 11:25:08.4669|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2023-06-08 11:25:08.4669|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 11:25:08.6512|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 11:25:08.6609|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:10.4680|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:10.7083|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:11.0400|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:8081 
+2023-06-08 11:25:11.0453|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://[::]:8081 
+2023-06-08 11:25:11.0453|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-06-08 11:25:11.0453|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-06-08 11:25:11.0453|Microsoft.Hosting.Lifetime|INFO|Content root path: E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi 
+2023-06-08 11:25:17.2282|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:17.2354|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:17.2354|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:17.2354|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:17.5439|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:17.5469|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:20.0022|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:20.0022|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:21.1902|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:21.1902|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:25.0090|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:25.0090|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:27.8596|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:27.8596|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:30.0032|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:30.0032|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:31.2006|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:31.2006|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:35.0149|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:35.0149|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:35.9435|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:35.9435|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 11:25:40.0137|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 11:25:40.0137|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 11:25:40.3981|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 11:25:40.3981|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:08.2016|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2023-06-08 16:28:08.8081|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2023-06-08 16:28:08.8903|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2023-06-08 16:28:08.9252|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2023-06-08 16:28:08.9252|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:28:08.9252|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2023-06-08 16:28:08.9360|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2023-06-08 16:28:08.9360|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2023-06-08 16:28:08.9360|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2023-06-08 16:28:08.9360|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:28:09.0493|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 16:28:09.0493|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:28:09.0493|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:09.0493|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 16:28:09.9842|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:8081 
+2023-06-08 16:28:09.9842|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://[::]:8081 
+2023-06-08 16:28:09.9842|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-06-08 16:28:09.9842|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-06-08 16:28:09.9842|Microsoft.Hosting.Lifetime|INFO|Content root path: E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi 
+2023-06-08 16:28:10.0262|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:10.0262|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:28:10.1041|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:28:10.1041|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:28:10.1162|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:10.1481|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:14.4651|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:14.4749|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:15.0114|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:15.0220|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:28:15.0220|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:28:15.0220|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:28:15.0327|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:15.0327|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:15.2924|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:15.2943|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:20.0040|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:20.0040|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:28:20.0040|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:28:20.0040|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:20.0040|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:28:20.0136|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:20.2305|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:20.2400|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:25.0123|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:25.0155|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:28:25.0155|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:28:25.0155|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:28:25.0155|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:25.0155|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:28:25.2683|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:28:25.2683|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:37:58.9920|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2023-06-08 16:37:59.4904|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2023-06-08 16:37:59.5295|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2023-06-08 16:37:59.5295|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2023-06-08 16:37:59.5295|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:37:59.5295|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2023-06-08 16:37:59.5295|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2023-06-08 16:37:59.5295|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2023-06-08 16:37:59.5451|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2023-06-08 16:37:59.5451|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:37:59.6194|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 16:37:59.6234|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 16:37:59.6234|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:37:59.6234|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 16:38:00.0441|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:00.0441|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:00.1084|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:00.1084|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:00.1858|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:8081 
+2023-06-08 16:38:00.1858|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://[::]:8081 
+2023-06-08 16:38:00.1858|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-06-08 16:38:00.1858|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-06-08 16:38:00.1858|Microsoft.Hosting.Lifetime|INFO|Content root path: E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi 
+2023-06-08 16:38:00.4015|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:00.4139|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:00.4244|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:02.7860|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:02.7860|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:05.0072|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:05.0072|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:05.0072|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:05.0072|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:05.0176|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:05.0176|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:05.0176|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:05.3043|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:05.3043|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:10.0175|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:10.0175|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:10.0175|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:10.0175|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:10.0175|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:10.0295|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:10.0295|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:10.3051|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:10.3144|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:15.0046|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:15.0046|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:15.0046|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:15.0046|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:15.0046|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:15.0189|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:15.0189|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:15.3481|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:15.3481|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:20.0398|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:20.0668|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:20.0768|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:20.0971|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:20.0971|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:20.0971|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:20.1280|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:20.4295|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:20.4295|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:25.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:25.0034|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:25.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:25.0034|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:25.0201|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:25.0201|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:25.0201|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:25.3223|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:25.3223|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:30.0058|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:30.0058|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:30.0058|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:30.0058|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:30.0058|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:30.0134|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:30.0134|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:30.2914|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:30.2914|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:35.0154|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:35.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:35.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:35.0154|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:35.0288|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:35.0288|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:35.0288|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:35.2494|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:35.2494|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:40.0074|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:40.0074|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:40.0074|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:40.0074|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:40.0191|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:40.0191|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:40.0191|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:40.2636|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:40.2636|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:45.0092|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:45.0092|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:45.0131|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:45.0131|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:45.0131|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:45.0131|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:45.0131|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:45.2975|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:45.2975|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:50.0067|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:50.0067|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:50.0067|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:50.0067|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:50.0067|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:50.0208|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:50.0208|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:50.2759|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:50.2759|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:55.0033|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:55.0033|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:38:55.0033|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:38:55.0033|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:38:55.0033|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:38:55.0129|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:55.0129|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:38:55.2566|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:38:55.2566|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:00.0037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:00.0037|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:39:00.0037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:39:00.0214|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:39:00.0313|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:39:00.0313|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:39:00.0313|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:00.2673|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:39:00.2673|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:05.0126|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 16:39:05.0126|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:05.0126|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 16:39:05.0126|Hhmocon.Mes.Repository.MyJobs|INFO|开始执行 
+2023-06-08 16:39:05.0126|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 16:39:05.0126|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:39:05.0126|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 16:39:05.2550|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 16:39:05.2550|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:07.1053|Quartz.Impl.StdSchedulerFactory|INFO|Default Quartz.NET properties loaded from embedded resource file 
+2023-06-08 17:26:07.6109|Quartz.Simpl.TaskSchedulingThreadPool|DEBUG|TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+2023-06-08 17:26:07.6708|Quartz.Core.SchedulerSignalerImpl|INFO|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2023-06-08 17:26:07.6708|Quartz.Core.QuartzScheduler|INFO|Quartz Scheduler created 
+2023-06-08 17:26:07.6708|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 17:26:07.6708|Quartz.Simpl.RAMJobStore|INFO|RAMJobStore initialized. 
+2023-06-08 17:26:07.6708|Quartz.Core.QuartzScheduler|INFO|Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2023-06-08 17:26:07.6887|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler 'DefaultQuartzScheduler' initialized 
+2023-06-08 17:26:07.6887|Quartz.Impl.StdSchedulerFactory|INFO|Quartz scheduler version: 3.3.3.0 
+2023-06-08 17:26:07.6887|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 17:26:07.8298|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 17:26:07.8298|Quartz.Core.QuartzScheduler|INFO|JobFactory set to: Autofac.Extras.Quartz.AutofacJobFactory 
+2023-06-08 17:26:07.8442|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:07.8442|Quartz.Core.QuartzScheduler|INFO|Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+2023-06-08 17:26:08.6124|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:8081 
+2023-06-08 17:26:08.6124|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://[::]:8081 
+2023-06-08 17:26:08.6124|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-06-08 17:26:08.6239|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-06-08 17:26:08.6239|Microsoft.Hosting.Lifetime|INFO|Content root path: E:\Project\Hhmocon.Mes - 副本\Hhmocon.Mes.WebApi 
+2023-06-08 17:26:10.1203|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:10.1621|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:10.2045|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:10.2045|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:13.2781|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:13.2897|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:15.0196|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:15.0196|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:15.0196|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:15.0196|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:15.5465|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:15.5465|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:15.5465|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:15.5465|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:15.9174|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:15.9199|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:20.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:20.0034|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:20.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:20.0034|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:20.0034|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:20.0034|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:20.2325|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:20.2325|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:25.0091|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:25.0218|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:25.0218|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:25.0450|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:25.0450|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:25.0450|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:25.2891|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:25.2891|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:30.0023|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:30.0023|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:30.0023|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:30.0023|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:30.0023|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:30.0023|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:30.2815|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:30.2815|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:35.0205|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:35.0205|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:35.0205|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:35.0470|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:35.0729|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:35.0937|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:35.3850|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:35.3850|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:40.0114|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:40.0114|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:40.0144|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:40.0144|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:40.0144|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:40.0144|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:40.2932|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:40.2948|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:45.0099|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:45.0099|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:45.0099|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:45.0141|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:45.0141|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:45.0141|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:45.2422|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:45.2422|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:50.0130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:50.0130|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:50.0130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:50.0130|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:50.0130|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:50.0130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:50.2760|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:50.2760|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:55.0022|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:55.0022|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:26:55.0022|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:26:55.0022|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:26:55.0022|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:55.0196|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:26:55.2839|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:26:55.2839|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:00.0071|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:00.0071|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:00.0071|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:00.0237|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:00.0352|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:00.0352|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:00.3684|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:00.3684|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:05.0140|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:05.0140|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:05.0140|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:05.0140|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:05.0140|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:05.0140|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:05.3202|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:05.3202|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:10.0092|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:10.0092|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:10.0234|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:10.0234|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:10.0234|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:10.0234|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:10.3058|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:10.3058|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:15.0022|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:15.0022|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:15.0022|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:15.0022|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:15.0022|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:15.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:15.3010|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:15.3010|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:20.0142|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:20.0142|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:20.0142|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:20.0142|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:20.0142|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:20.0328|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:20.2763|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:20.2804|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:25.0100|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:25.0100|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:25.0136|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:25.0136|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:25.0136|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:25.0136|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:25.3182|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:25.3182|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:30.0162|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:30.0162|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:30.0162|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:30.0162|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:30.0162|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:30.0346|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:30.3149|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:30.3318|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:35.0073|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:35.0073|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:35.0073|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:35.0073|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:35.0073|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:35.0146|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:35.3055|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:35.3055|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:40.0042|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:40.0042|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:40.0042|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:40.0042|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:40.0042|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:40.0042|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:40.2832|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:40.3062|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:45.0164|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:45.0164|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:45.0164|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:45.0164|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:45.0164|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:45.0361|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:45.2937|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:45.2979|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:50.0049|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:50.0049|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:50.0049|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:50.0049|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:50.0049|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:50.0163|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:50.2866|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:50.2866|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:55.0318|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:27:55.0318|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:55.0318|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:27:55.0318|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:55.0318|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:27:55.0318|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:27:55.2574|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:27:55.2574|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:00.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:00.0132|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:00.0337|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:00.0337|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:00.0337|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:00.0337|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:00.3170|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:00.3170|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:05.0039|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:05.0039|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:05.0039|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:05.0039|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:05.0039|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:05.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:05.2805|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:05.2805|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:10.0098|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:10.0098|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:10.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:10.0132|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:10.0132|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:10.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:10.2813|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:10.2813|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:15.0032|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:15.0032|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:15.0032|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:15.0032|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:15.0032|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:15.0032|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:15.2763|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:15.2789|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:20.0065|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:20.0065|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:20.0153|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:20.0153|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:20.0153|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:20.0153|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:20.2465|Hhmocon.Mes.WebApi.Controllers.CheckIn.CheckController|INFO|Login enter 
+2023-06-08 17:28:20.2586|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:20.2586|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:25.0171|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:25.0171|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:25.0171|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:25.0171|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:25.0171|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:25.0171|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:25.3473|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:25.3473|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:30.4227|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:30.4227|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:30.4227|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:30.4227|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:30.4227|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:30.4870|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:30.8059|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:30.8059|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:35.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:35.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:35.0154|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:35.0154|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:35.0154|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:35.0403|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:35.3451|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:35.3451|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:40.0470|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:40.0470|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:40.0470|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:40.0470|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:40.0600|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:40.0600|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:40.3529|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:40.3529|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:45.0324|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:45.0324|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:45.0324|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:45.0324|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:45.0324|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:45.0324|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:45.2689|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:45.2804|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:50.0149|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:50.0149|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:50.0149|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:50.0149|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:50.0149|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:50.0337|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:50.2956|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:50.2956|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:55.0172|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:55.0172|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:28:55.0172|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:28:55.0172|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:28:55.0172|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:55.0172|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:28:55.3120|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:28:55.3120|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:00.0066|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:00.0066|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:00.0322|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:00.0322|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:00.0322|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:00.0462|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:00.3049|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:00.3119|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:05.0107|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:05.0107|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:05.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:05.0132|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:05.0132|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:05.0132|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:05.3039|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:05.3039|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:10.0050|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:10.0050|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:10.0050|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:10.0050|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:10.0156|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:10.0156|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:10.2791|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:10.2791|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:15.0048|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:15.0048|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:15.0048|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:15.0048|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:15.0048|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:15.0158|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:15.2463|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:15.2486|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:20.0361|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:20.0361|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:20.0471|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:20.0471|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:20.0471|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:20.0627|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:20.3713|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:20.3741|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:25.0089|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:25.0089|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:25.0089|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:25.0089|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:25.0190|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:25.0190|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:25.2841|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:25.2841|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:30.0663|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:30.0796|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:30.0796|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:30.0796|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:30.1047|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:30.1139|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:30.4165|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:30.4205|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:35.0121|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:35.0158|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:35.0158|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:35.0158|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:35.0158|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:35.0287|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:35.3123|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:35.3123|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:40.0130|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:40.0130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:40.0130|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:40.0130|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:40.0343|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:40.0460|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:40.3103|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:40.3103|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:45.0109|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:45.0109|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:45.0137|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:45.0137|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:45.0137|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:45.0299|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:45.3132|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:45.3380|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:50.0160|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:50.0160|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:50.0160|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:50.0160|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:50.0160|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:50.0338|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:50.2866|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:50.3036|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:55.0138|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:55.0138|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:29:55.0138|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:29:55.0474|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:29:55.0474|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:55.0474|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:29:55.4170|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:29:55.4191|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:00.0154|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:00.0154|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:30:00.0328|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:30:00.0328|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:00.0466|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:30:00.0466|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:00.2956|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:00.2956|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:05.0037|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:30:05.0037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:05.0037|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:30:05.0151|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:05.0151|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:30:05.0151|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:05.2783|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:05.2783|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:10.0307|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:10.0307|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:30:10.0307|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:30:10.0307|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:30:10.0307|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:10.0307|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:10.2942|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:10.2942|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:15.0084|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:30:15.0084|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:15.0151|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:30:15.0151|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:15.0151|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:30:15.0151|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:15.2983|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:15.2983|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:20.0097|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.MyJobs 
+2023-06-08 17:30:20.0097|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:20.0157|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 0 triggers 
+2023-06-08 17:30:20.0157|Quartz.Core.JobRunShell|DEBUG|Calling Execute on job DEFAULT.Hhmocon.Mes.Repository.QuartzJobRunner 
+2023-06-08 17:30:20.0157|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:20.0468|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 
+2023-06-08 17:30:20.3028|Quartz.Core.JobRunShell|DEBUG|Trigger instruction : NoInstruction 
+2023-06-08 17:30:20.3112|Quartz.Core.QuartzSchedulerThread|DEBUG|Batch acquisition of 1 triggers 

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Work\09 jinrenWork\21 Mes\02 sources\HHMOCON.Mes\Hhmocon.Mes\Hhmocon.Mes.Repository\Hhmocon.Mes.Repository.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>D:\Work\09 jinrenWork\21 Mes\02 sources\HHMOCON.Mes\Hhmocon.Mes\Hhmocon.Mes.Repository\Hhmocon.Mes.Repository.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hhmocon.Mes.Core\Hhmocon.Mes.Core.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Database.SqlServer\Hhmocon.Mes.Database.SqlServer.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Database\Hhmocon.Mes.Database.csproj" />
+    <ProjectReference Include="..\Hhmocon.Mes.Util\Hhmocon.Mes.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repository\Lituo\LituoEnergyConsumption\" />
+  </ItemGroup>
+
+</Project>
